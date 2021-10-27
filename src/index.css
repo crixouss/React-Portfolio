@@ -1,0 +1,10 @@
+/* ./src/index.css */
+@import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.logo h2 {
+    font-family: 'Hanalei Fill', cursive;
+}
